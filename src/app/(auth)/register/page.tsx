@@ -132,7 +132,7 @@ export default function RegisterPage() {
           <div className="absolute inset-0 bg-black/20" />
           <div className="absolute inset-0 flex items-center justify-center text-white text-center p-6">
             <div>
-              <h1 className="text-4xl font-bold mb-4">Join Maldonite</h1>
+              <h1 className="text-4xl font-bold mb-4">Join Us</h1>
               <p className="text-lg">Start managing your property portfolio today</p>
             </div>
           </div>
